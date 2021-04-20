@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /index.html/
+Disallow: /home/
+Sitemap: http://www.matesworkforce.com.au/sitemap.xml
